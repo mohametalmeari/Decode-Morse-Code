@@ -1,0 +1,5 @@
+gem i bundler
+bundler init
+bundler i
+rubocop
+rubocop -A
